@@ -1,4 +1,4 @@
-# VehiclePolymorphism011223
+# VehiclePolymorphism010123
 Series of exercises done regularly to keep me practiced and deepen my java knowledge
 
 Exercise: Create a "Vehicle" class with methods for "accelerate()" and "brake()" and two subclasses "Car" and "
